@@ -1,5 +1,4 @@
-![GitHub Logo](/Icons/sublime.png)
-Format: ![Alt Text](url)
+<img src="Icons/sublime.ico" width="96">
 
 sublime-f5-irules
 ================
