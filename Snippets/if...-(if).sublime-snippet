@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[if {${1:\$var == 0}} {
+    <content><![CDATA[if { ${1:\$var == 0} } {
 	$0
 }
 ]]></content>
