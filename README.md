@@ -1,4 +1,4 @@
-<img src="Icons/sublime.ico" width="96">
+<img src="Icons/sublime.ico" width="72">
 
 sublime-f5-irules
 ================
