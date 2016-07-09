@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[HTTP::header ${1:commans} ]]></content>
+    <content><![CDATA[HTTP::header ${1:command} ]]></content>
     <tabTrigger>HTTP::header</tabTrigger>
     <scope>source.irule</scope>
     <description>HTTP::header...</description>
