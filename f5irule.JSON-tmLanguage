@@ -1,10 +1,9 @@
 { "name": "iRule",
   "scopeName": "source.irule",
   "fileTypes": [
-    "irule", 
-    "_irule.irule"
+    "txt"
   ],
-  "firstLineMatch": "^WHEN_",
+  "firstLineMatch": "^#!iRule.*",
   "foldingStartMarker": "\\{\\s*$",
   "foldingEndMarker": "^\\s*\\}",
   "patterns": [
