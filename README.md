@@ -5,7 +5,7 @@
 
 Sublime Text package for F5 iRules syntax highlighting and auto-completion.
 
-Updated for: TMOS **12.1**
+Updated for: TMOS **12.1**<br>
 
 ## Installation
 
