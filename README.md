@@ -7,6 +7,11 @@ Sublime Text package for F5 iRules syntax highlighting and auto-completion.
 
 ## Installation
 
+* [Download](https://github.com/ArtiomL/sublime-f5-irules/archive/master.zip) the **master** branch archive
+* Open the **_Packages_** directory from the main menu of Sublime Text (Preferences → Browse Packages...)
+* Extract the archive into its own folder under the _Packages_ directory
+
+
 macOS:
 
 ```
