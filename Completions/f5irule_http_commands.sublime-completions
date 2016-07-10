@@ -1,19 +1,18 @@
 {
-  "scope": "command.httpheader.irule",
-  "completions":
-  [
-	"at",
-	"count",
-	"exists",
-	"insert",
-	"insert_modssl_fields",
-	"is_keepalive",
-	"is_redirect",
-	"lws",
-	"names",
-	"remove",
-	"replace",
-	"sanitize",
-	"values"
-  ]
+	"scope": "command.httpheader.irule",
+	"completions": [
+		"at",
+		"count",
+		"exists",
+		"insert",
+		"insert_modssl_fields",
+		"is_keepalive",
+		"is_redirect",
+		"lws",
+		"names",
+		"remove",
+		"replace",
+		"sanitize",
+		"values"
+	]
 }
