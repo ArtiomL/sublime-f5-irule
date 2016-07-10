@@ -3,7 +3,7 @@
 
 ## Description
 
-Sublime Text Package for F5 iRules Syntax Highlighting and Auto-Completion.
+Sublime Text package for F5 iRules syntax highlighting and auto-completion.
 
 ## Installation
 
