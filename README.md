@@ -1,4 +1,4 @@
-# <img align="center" src="Icons/sublime.ico" height="72">&nbsp;&nbsp;&nbsp;sublime-f5-irules
+# <img align="center" src="Icons/sublime.ico" height="72">&nbsp;&nbsp;sublime-f5-irules
 
 
 ## Description
