@@ -105,7 +105,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>(?&lt;=^|[\[{;])\s*(after|and|break|catch|contains|continue|ends_with|equals|eq|error|eval|exit|for|foreach|if|matches|matches_glob|matches_regex|ne|not|or|return|starts_with|switch|update|uplevel|vwait|while)\b</string>
+			<string>(?&lt;=^|[\[{;])\s*(after|break|catch|continue|error|eval|exit|for|foreach|if|return|update|uplevel|vwait|while)\b</string>
 		</dict>
 		<dict>
 			<key>captures</key>
@@ -118,6 +118,18 @@
 			</dict>
 			<key>match</key>
 			<string>(?&lt;=^|})\s*(then|elseif|else)\b</string>
+		</dict>
+		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>keyword.operator.irule</string>
+				</dict>
+			</dict>
+			<key>match</key>
+			<string>\s+(and|contains|ends_with|equals|eq|matches|matches_glob|matches_regex|ne|not|or|starts_with|switch)\b</string>
 		</dict>
 		<dict>
 			<key>captures</key>
