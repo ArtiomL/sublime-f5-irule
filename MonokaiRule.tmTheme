@@ -413,6 +413,16 @@
 
 		<dict>
 			<key>scope</key>
+			<string>keyword.operator.irule</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF971F</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>scope</key>
 			<string>variable.other.irule</string>
 			<key>settings</key>
 			<dict>
