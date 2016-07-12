@@ -8,21 +8,21 @@ Updated for: TMOS **12.1**
 
 <br>
 ## Installation
-#### Manual (Windows, Linux, macOS):
+#### Manual (Windows, Linux, macOS)
 
 * [Download](https://github.com/ArtiomL/sublime-f5-irules/archive/master.zip) the **master** branch archive
 * Open the **_Packages_** directory from the main menu of Sublime Text (Preferences → Browse Packages...)
 * Extract the archive into its own folder under the _Packages_ directory
 
-#### Git:
-Linux:
+#### Git
+> Linux:
 
 ```
 cd ~/.config/sublime-text-3/Packages
 git clone https://github.com/ArtiomL/sublime-f5-irules.git
 ```
 
-macOS:
+> macOS:
 
 ```
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
