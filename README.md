@@ -14,15 +14,15 @@ Updated for: TMOS **12.1**
 * Open the **_Packages_** directory from the main menu of Sublime Text (Preferences → Browse Packages...)
 * Extract the archive into its own folder under the _Packages_ directory
 
-#### Git:
-&nbsp;&nbsp;&nbsp;&nbsp;Linux:
+#### or use Git:
+Linux:
 
 ```
 cd ~/.config/sublime-text-3/Packages
 git clone https://github.com/ArtiomL/sublime-f5-irules.git
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp;macOS:
+macOS:
 
 ```
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
