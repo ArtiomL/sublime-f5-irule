@@ -14,7 +14,8 @@ Updated for: TMOS **12.1**
 * Open the **_Packages_** directory from the main menu of Sublime Text (Preferences → Browse Packages...)
 * Extract the archive into its own folder under the _Packages_ directory
 
-#### or use Git:
+<br>
+#### Git:
 Linux:
 
 ```
