@@ -1,5 +1,6 @@
 # <img align="center" src="Icons/sublime.ico" height="72">&nbsp;&nbsp;sublime-f5-irules
 
+<br>
 ## Description
 
 Sublime Text package for F5 iRules syntax highlighting and auto-completion.
