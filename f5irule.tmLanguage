@@ -5,9 +5,10 @@
 	<key>fileTypes</key>
 	<array>
 		<string>txt</string>
+		<string>irule</string>
 	</array>
 	<key>firstLineMatch</key>
-	<string>^#!iRule.*</string>
+	<string>^#!iRule</string>
 	<key>foldingEndMarker</key>
 	<string>^\s*\}</string>
 	<key>foldingStartMarker</key>
