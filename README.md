@@ -1,5 +1,5 @@
 # <img align="center" src="Icons/sublime.ico" height="72">&nbsp;&nbsp;sublime-f5-irules
-
+https://github.com/ArtiomL/sublime-f5-irules/blob/master/README.md
 <br>
 ## Description
 
