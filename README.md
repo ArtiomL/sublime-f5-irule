@@ -2,7 +2,7 @@
 [![Releases](https://img.shields.io/github/release/ArtiomL/sublime-f5-irules.svg)](https://github.com/ArtiomL/sublime-f5-irules/releases)
 [![Commits](https://img.shields.io/github/commits-since/ArtiomL/sublime-f5-irules/v12.1.0.svg)](https://github.com/ArtiomL/sublime-f5-irules/graphs/commit-activity)
 [![Issues](https://img.shields.io/github/issues/ArtiomL/sublime-f5-irules.svg)](https://github.com/ArtiomL/sublime-f5-irules/issues)
-[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-3114-orange.svg)](https://www.sublimetext.com/3)
+[![Sublime Text](https://img.shields.io/badge/sublime%20text-3114-orange.svg)](https://www.sublimetext.com/3)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 <br>
 ## Description
