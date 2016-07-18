@@ -1,4 +1,5 @@
 # <img align="center" src="Icons/sublime.ico" height="72">&nbsp;&nbsp;sublime-f5-irules
+[![Releases](https://img.shields.io/github/release/ArtiomL/sublime-f5-irules.svg)](https://github.com/ArtiomL/sublime-f5-irules/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 <br>
 ## Description
