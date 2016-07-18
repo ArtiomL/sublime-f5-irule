@@ -1,7 +1,8 @@
 # <img align="center" src="Icons/sublime.ico" height="72">&nbsp;&nbsp;sublime-f5-irules
 [![Commits](https://img.shields.io/github/commits-since/ArtiomL/sublime-f5-irules/v12.1.0.svg)](https://github.com/ArtiomL/sublime-f5-irules/graphs/commit-activity)
 [![Releases](https://img.shields.io/github/release/ArtiomL/sublime-f5-irules.svg)](https://github.com/ArtiomL/sublime-f5-irules/releases)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](/LICENSE)
+[![Issues](https://img.shields.io/github/issues/ArtiomL/sublime-f5-irules.svg)](https://github.com/ArtiomL/sublime-f5-irules/issues)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 <br>
 ## Description
 
