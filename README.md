@@ -37,3 +37,9 @@ git clone https://github.com/ArtiomL/sublime-f5-irules.git
 <br>
 ## Color Scheme
 Please use the **_MonokaiRule_** theme included in this package for optimal highlighting experience.
+
+<br>
+## Filetypes and Syntax Association
+
+<br>
+## Pseudo-Validation
