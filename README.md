@@ -44,12 +44,13 @@ The package syntax is used for ```.irule``` files by default.
 
 Using the ```.txt``` extension is also supported: the first line of the file should begin with the following pattern:
 
-```#!iRule ```
+```#!iRule 
+```
 
 <br>
 ## Pseudo-Validation
 Highlighting for a specific scope will be disabled (to indicate an error) based on the following set of rules:
 #### Events:
-- **_when_** can't start with whitespace
-- Only a single space between **_when_** and **_EVENT_NAME_**
+- The **_when_** statement can't start with a whitespace
+- Only a single space should be used between the **_when_** keyword and the **_EVENT_NAME_**
 - **_EVENT_NAME_** should only contain capital letters, underscores and 2<br>(for _ACCESS2_POLICY_EXPRESSION_EVAL_)
