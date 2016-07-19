@@ -44,8 +44,8 @@ The package syntax is used for ```.irule``` files by default.
 
 Using the ```.txt``` extension is also supported: the first line of the file should begin with the following pattern:
 
-```#!iRule
-
+```
+#!iRule
 ```
 
 <br>
