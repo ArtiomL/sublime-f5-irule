@@ -57,4 +57,4 @@ Highlighting for a specific scope will be disabled (to indicate an **_error_**) 
 - The **_EVENT_NAME_** should only contain capital letters, underscores and numeral 2<br>(for _ACCESS2_POLICY_EXPRESSION_EVAL_)
 
 #### Log
-- Only a single space should be used between the **_log_** command and its parameters ( **_[-noname] \<facility\>._** )
+- Only a single space should be used between the **_log_** command and its arguments: **_[-noname] \<facility\>._**
