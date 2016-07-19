@@ -135,6 +135,18 @@
 		<dict>
 			<key>captures</key>
 			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>keyword.log.irule</string>
+				</dict>
+			</dict>
+			<key>match</key>
+			<string>^\s*log\s(-noname )?(local[0-9]\.)?</string>
+		</dict>
+		<dict>
+			<key>captures</key>
+			<dict>
 				<key>0</key>
 				<dict>
 					<key>name</key>
