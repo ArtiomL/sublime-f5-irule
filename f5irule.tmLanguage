@@ -142,7 +142,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>^\s*log\s(-noname )?(local[0-9]\.)?</string>
+			<string>(log\s(-noname )?(local[0-9]\.)?)</string>
 		</dict>
 		<dict>
 			<key>captures</key>
