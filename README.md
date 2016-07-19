@@ -42,7 +42,7 @@ Please use the **_MonokaiRule_** theme included in this package for optimal high
 ## Filetypes and Syntax Association
 The package syntax is used for ```.irule``` files by default.
 
-Using the ```.txt``` extension is also supported: the first line of the file should begin with the following pattern:
+Using the ```.txt``` extension is also supported: the first line of the file should begin with the following sequence:
 
 ```
 #!iRule
