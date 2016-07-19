@@ -60,7 +60,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>^\s*(when)\s+([^\s]+)</string>
+			<string>^(when)\s([A-Z,2,_]+)</string>
 		</dict>
 		<dict>
 			<key>captures</key>
