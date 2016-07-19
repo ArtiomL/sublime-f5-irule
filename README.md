@@ -50,8 +50,8 @@ Using the ```.txt``` extension is also supported: the first line of the file sho
 
 <br>
 ## Pseudo-Validation
-Highlighting for a specific scope will be disabled (to indicate an error) based on the following set of rules:
+Highlighting for a specific scope will be disabled (to indicate an **_error_**) based on the following set of rules:
 #### Events:
 - The **_when_** statement can't start with a whitespace
 - Only a single space should be used between the **_when_** keyword and the **_EVENT_NAME_**
-- **_EVENT_NAME_** should only contain capital letters, underscores and 2<br>(for _ACCESS2_POLICY_EXPRESSION_EVAL_)
+- The **_EVENT_NAME_** should only contain capital letters, underscores and 2 (for _ACCESS2_POLICY_EXPRESSION_EVAL_)
