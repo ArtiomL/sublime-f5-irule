@@ -423,6 +423,16 @@
 
 		<dict>
 			<key>scope</key>
+			<string>keyword.log.irule</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F19090</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>scope</key>
 			<string>variable.other.irule</string>
 			<key>settings</key>
 			<dict>
