@@ -68,7 +68,7 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>keyword.control.irule</string>
+					<string></string>
 				</dict>
 				<key>2</key>
 				<dict>
@@ -78,23 +78,6 @@
 			</dict>
 			<key>match</key>
 			<string>^\s*(HTTP::header)\s([^\s]+)</string>
-		</dict>
-		<dict>
-			<key>captures</key>
-			<dict>
-				<key>1</key>
-				<dict>
-					<key>name</key>
-					<string>keyword.control.irule</string>
-				</dict>
-				<key>2</key>
-				<dict>
-					<key>name</key>
-					<string>command.httpheader.irule</string>
-				</dict>
-			</dict>
-			<key>match</key>
-			<string>^\s*(HTTP::header)\s+([^\s]+)</string>
 		</dict>
 		<dict>
 			<key>captures</key>
