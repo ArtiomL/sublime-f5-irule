@@ -20,13 +20,13 @@ This is the recommended way to install the package. Package Control will install
 * Open the **_Command Palette_** from the main menu of Sublime Text (Tools → Command Palette)
 * Start typing: `Package Control: Install Package`
 * Type: `F5 iRules` and select it to install
-
+<br>
 #### Manual (Windows, Linux, macOS)
 
 * [Download](https://github.com/ArtiomL/sublime-f5-irules/archive/master.zip) the **master** branch archive
 * Open the **_Packages_** directory from the main menu of Sublime Text (Preferences → Browse Packages...)
 * Extract the archive into its own folder under the _Packages_ directory
-
+<br>
 #### Git
 > Linux:
 
