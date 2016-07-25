@@ -17,7 +17,7 @@ Sublime Text package for F5 iRules syntax highlighting and auto-completion.
 #### [Package Control](https://packagecontrol.io/packages/F5%20iRules)
 This is the recommended way to install the package. Package Control will install the latest release on your system and keep it up to date:
 * Make sure Package Control is [installed](https://packagecontrol.io/installation)
-* Open the **_Command Palette_** from the main menu of Sublime Text (Tools → Command Palette)
+* Open the **_Command Palette_** from the main menu of Sublime Text (Tools → Command Palette or ⌘+⇧+P)
 * Start typing: `Package Control: Install Package` and select the command to show a list of all available packages
 * Type: `F5 iRules` and select it to install the package
 
