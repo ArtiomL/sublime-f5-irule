@@ -5,6 +5,7 @@
 [![Issues](https://img.shields.io/github/issues/ArtiomL/sublime-f5-irules.svg)](https://github.com/ArtiomL/sublime-f5-irules/issues)
 [![Sublime Text](https://img.shields.io/badge/sublime%20text-3114-orange.svg)](https://www.sublimetext.com/3)
 ![TMOS](https://img.shields.io/badge/tmos-12.1-ff0000.svg)
+[![Package Control](https://img.shields.io/packagecontrol/dt/F5%20iRules.svg)](https://packagecontrol.io/packages/F5%20iRules)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 <br>
 ## Description
@@ -13,6 +14,7 @@ Sublime Text package for F5 iRules syntax highlighting and auto-completion.
 
 <br>
 ## Installation
+#### Package Control
 #### Manual (Windows, Linux, macOS)
 
 * [Download](https://github.com/ArtiomL/sublime-f5-irules/archive/master.zip) the **master** branch archive
