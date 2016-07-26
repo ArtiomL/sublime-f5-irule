@@ -113,7 +113,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>\b\s(and|contains|ends_with|equals|eq|matches|matches_glob|matches_regex|ne|not|or|starts_with)\b\s\b</string>
+			<string>(?&lt;=\S)\s(and|contains|ends_with|equals|eq|matches|matches_glob|matches_regex|ne|not|or|starts_with)\b\s</string>
 		</dict>
 		<dict>
 			<key>captures</key>
