@@ -77,7 +77,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>^\s*\[?(HTTP::header)\s([^\s"]+)\b</string>
+			<string>\s*\[?(HTTP::header)\s([^\s"]+)\b</string>
 		</dict>
 		<dict>
 			<key>captures</key>
