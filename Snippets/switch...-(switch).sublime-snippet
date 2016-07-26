@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[switch ${1:-exact} -- ${2:\$var} {
-	${3:match} {
+	${3:match_pattern} {
 		${4}
 	}
 	default {${5}}
