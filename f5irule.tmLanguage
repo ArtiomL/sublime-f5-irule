@@ -89,7 +89,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>(?&lt;=^|[\[{;])\s*(after|break|catch|continue|error|eval|exit|for|foreach|if|return|update|uplevel|vwait|while)\b</string>
+			<string>(?&lt;=^|[\[{;])\s*(after|break|catch|continue|error|eval|exit|for|foreach|if|return|switch|update|uplevel|vwait|while)\b</string>
 		</dict>
 		<dict>
 			<key>captures</key>
@@ -113,7 +113,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>\s+(and|contains|ends_with|equals|eq|matches|matches_glob|matches_regex|ne|not|or|starts_with|switch)\b</string>
+			<string>\b\s(and|contains|ends_with|equals|eq|matches|matches_glob|matches_regex|ne|not|or|starts_with)\b\s\b</string>
 		</dict>
 		<dict>
 			<key>captures</key>
