@@ -89,7 +89,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>(?&lt;=^|[\[{;])\s*(after|break|catch|continue|error|eval|exit|for|foreach|if|return|switch|update|uplevel|vwait|while)\b</string>
+			<string>(?&lt;=^|[\[{;])\s*(after|break|catch|continue|default|error|eval|exit|for|foreach|if|return|switch|update|uplevel|vwait|while)\b</string>
 		</dict>
 		<dict>
 			<key>captures</key>
