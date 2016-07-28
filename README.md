@@ -64,7 +64,7 @@ Or you can set the syntax manually:
 
 <br>
 ## Snippets
-Code snippets are small blocks of reusable code that can be inserted into a file to avoid repetitive typing.
+Code snippets are small blocks of reusable code that can be inserted into a file to avoid repetitive typing.<br>
 Start typing one of the following:
 ```
 for
