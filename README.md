@@ -63,6 +63,18 @@ Or you can set the syntax manually:
 * Start typing: `Set Syntax: iRule` or `ssir` and select the command to activate it
 
 <br>
+## Snippets
+Code snippets are small blocks of reusable code that can be inserted into a file to avoid repetitive typing.
+Start typing one of the following:
+```
+for
+foreach
+if
+switch
+when
+```
+
+<br>
 ## Pseudo-Validation
 Highlighting for a specific scope will be disabled (to indicate an **_error_**) based on the following set of rules:
 #### Spaces
