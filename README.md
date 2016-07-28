@@ -72,3 +72,6 @@ Highlighting for a specific scope will be disabled (to indicate an **_error_**) 
 - The **_when_** statement can't start with a whitespace
 - Only a single space should be used between the **_when_** keyword and the **_EVENT_NAME_**
 - The **_EVENT_NAME_** should only contain capital letters, underscores and numeral 2<br>(for _ACCESS2_POLICY_EXPRESSION_EVAL_)
+
+#### More
+- In development
