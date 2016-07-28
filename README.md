@@ -73,6 +73,7 @@ if
 switch
 when
 ```
+and select the _command..._ from the context menu (Tab).
 
 <br>
 ## Pseudo-Validation
