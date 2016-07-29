@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[log ${1:-noname} local${2:0}.${3:info} "${4:message}"]]></content>
+<tabTrigger>log</tabTrigger>
+<scope>source.irule</scope>
+<description>log...</description>
+</snippet>
