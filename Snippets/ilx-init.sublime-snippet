@@ -1,5 +1,5 @@
 <snippet>
-<content><![CDATA[ILX::init "${1:plugin}" "${2:extension}"]]></content>
+<content><![CDATA[set ${1:rpc_handle} [ILX::init "${2:plugin}" "${3:extension}"]]]></content>
 <tabTrigger>ILX</tabTrigger>
 <scope>source.irule</scope>
 <description>ILX::init...</description>
