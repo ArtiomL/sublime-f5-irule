@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[set ${1:name} ${2:value} ]]></content>
+    <content><![CDATA[set ${1:name} ${2:value}]]></content>
     <tabTrigger>set</tabTrigger>
     <scope>source.irule</scope>
     <description>set...</description>
