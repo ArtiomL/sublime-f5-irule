@@ -71,6 +71,9 @@ Start typing one of the following:
 for
 foreach
 if
+ILX
+log
+set
 switch
 when
 ```
