@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[if { [catch { set ${1:rpc_resp} [ILX::call \$${2:rpc_handle} -timeout ${3:3000} "${4:method}" arguments] } cresult ] } {
+	log local0.err "ILX to Node.js RPC Issue: \$cresult"
+	return
+}
+else {
+	log local0.info "RPC Response: \$rpc_resp"
+	$0
+}]]></content>
+<tabTrigger>ILX</tabTrigger>
+<scope>source.irule</scope>
+<description>catch ILX::call...</description>
+</snippet>
