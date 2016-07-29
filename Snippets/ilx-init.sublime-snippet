@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[ILX::init "${1:plugin}" "${2:extension}"]]></content>
+<tabTrigger>ILX</tabTrigger>
+<scope>source.irule</scope>
+<description>ILX::init...</description>
+</snippet>
