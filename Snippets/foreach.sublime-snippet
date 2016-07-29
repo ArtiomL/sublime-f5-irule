@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[foreach ${1:i} ${2:\$list} {
+    <content><![CDATA[foreach ${1:i} \$${2:list} {
 	$0
 }
 ]]></content>
