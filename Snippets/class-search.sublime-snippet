@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[class ${1:search} -${2:value} ${3:--} ${4:datagroup} ${5:equals} ${6:item}]]></content>
+<tabTrigger>class</tabTrigger>
+<scope>source.irule</scope>
+<description>class...</description>
+</snippet>
