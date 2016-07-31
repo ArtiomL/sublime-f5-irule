@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[switch [ACCESS::policy agent_id] {
+	"${1:aid_1}" {
+		${2:}
+	}
+	"${3:aid_2}" {
+		${4:}
+	}
+}]]></content>
+<tabTrigger>ACCESS</tabTrigger>
+<scope>source.irule</scope>
+<description>ACCESS::policy...</description>
+</snippet>
