@@ -164,6 +164,18 @@
 			<string>(?&lt;=^|[\[{;])\s*(append|argc|argv|argv0|array|auto_mkindex|auto_path|auto_reset|bgerror|binary|break|catch|clock|close|concat|continue|coroutine|dde|env|eof|errorCode|errorInfo|expr|fblocked|fconfigure|fcopy|fileevent|filename|flush|for|foreach|format|gets|global|http|if|incr|info|interp|join|lappend|lindex|linsert|list|llength|lmap|lrange|lreplace|lsearch|lset|lsort|mathfunc|mathop|memory|msgcat|my|namespace|next|nextto|oo::class|oo::copy|oo::define|oo::objdefine|oo::object|package|parray|pid|pkg::create|pkg_mkIndex|platform|platform::shell|proc|puts|re_syntax|read|refchan|regexp|registry|regsub|rename|return|safe|scan|seek|self|set|split|string|subst|switch|tailcall|Tcl|tcl::prefix|tcl_endOfWord|tcl_findLibrary|tcl_interactive|tcl_library|tcl_nonwordchars|tcl_patchLevel|tcl_pkgPath|tcl_platform|tcl_precision|tcl_rcFileName|tcl_startOfNextWord|tcl_startOfPreviousWord|tcl_traceCompile|tcl_traceExec|tcl_version|tcl_wordBreakAfter|tcl_wordBreakBefore|tcl_wordchars|tcltest|tell|throw|time|tm|trace|transchan|try|unset|upvar|variable|while|yield|yieldto|zlib)\b</string>
 		</dict>
 		<dict>
+			<key>captures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>keyword.disabled.irule</string>
+				</dict>
+			</dict>
+			<key>match</key>
+			<string>(?&lt;=^|[\[{;])\s*(apply|auto_execok|auto_import|auto_load|auto_load_index|auto_qualify|cd|chan|dict|encoding|exec|exit|fbconfigure|file|glob|history|lassign|load|lrepeat|lreverse|open|pwd|socket|source|tclLog|unknown|unload)\b</string>
+		</dict>
+		<dict>
 			<key>begin</key>
 			<string>(?&lt;=^|[\[{;])\s*(regexp|regsub)\b\s*</string>
 			<key>beginCaptures</key>
