@@ -68,6 +68,9 @@ Code snippets are small blocks of reusable code that can be inserted into a file
 Start typing one of the following:
 
 ```
+ACCESS
+class
+HTTP
 for
 foreach
 if
