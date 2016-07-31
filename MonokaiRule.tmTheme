@@ -443,6 +443,16 @@
 		
 		<dict>
 			<key>scope</key>
+			<string>keyword.disabled.irule</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF0000</string>
+			</dict>
+		</dict>
+		
+		<dict>
+			<key>scope</key>
 			<string>command.httpheader.irule</string>
 			<key>settings</key>
 			<dict>
