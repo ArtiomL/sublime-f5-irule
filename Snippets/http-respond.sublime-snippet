@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[HTTP::respond ${1:200} content [subst {<html><body>\$${2:var}</body></html>}] noserver "${3:Connection}" "${4:close}"]]></content>
+<tabTrigger>HTTP</tabTrigger>
+<scope>source.irule</scope>
+<description>HTTP::respond...</description>
+</snippet>
