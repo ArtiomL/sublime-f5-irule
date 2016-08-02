@@ -49,15 +49,15 @@ Please use the **_MonokaiRule_** theme included in this package for optimal high
 
 Otherwise, add the following scopes to your current color scheme:
 
-| Scope                     | Proposed Color    |
-| :------------------------- |:--------:|
-| keyword.name.event.irule	|  #66D9EF |
-| keyword.control.irule	    |  #7FE22A |
-| keyword.operator.irule	|  #FF971F |
-| keyword.log.irule	        |  #F19090 |
-| keyword.disabled.irule	|  #FF0000 |
-| variable.other.irule	    |  #AE81FF |
-| command.httpheader.irule	|  #88FFFF |
+| Scope                     | Suggested Color |
+| :------------------------ |:---------------:|
+| keyword.name.event.irule	|     #66D9EF     |
+| keyword.control.irule	    |     #7FE22A     |
+| keyword.operator.irule	|     #FF971F     |
+| keyword.log.irule	        |     #F19090     |
+| keyword.disabled.irule	|     #FF0000     |
+| variable.other.irule	    |     #AE81FF     |
+| command.httpheader.irule	|     #88FFFF     |
 
 Example:
 ```xml
