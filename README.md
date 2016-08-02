@@ -31,14 +31,14 @@ This is the recommended way to install the package. Package Control will install
 #### Git
 > Linux:
 
-```
+```shell
 cd ~/.config/sublime-text-3/Packages
 git clone https://github.com/ArtiomL/sublime-f5-irules.git
 ```
 
 > macOS:
 
-```
+```shell
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
 git clone https://github.com/ArtiomL/sublime-f5-irules.git
 ```
@@ -67,7 +67,7 @@ Or you can set the syntax manually:
 Code snippets are small blocks of reusable code that can be inserted into a file to avoid repetitive typing.<br>
 Start typing one of the following:
 
-```
+```tcl
 ACCESS
 class
 HTTP
