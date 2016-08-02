@@ -51,13 +51,13 @@ Otherwise, add the following scopes to your current color scheme:
 
 | Scope                     | Suggested Color |
 | :------------------------ |:---------------:|
-| keyword.name.event.irule	|     #66D9EF     |
-| keyword.control.irule	    |     #7FE22A     |
-| keyword.operator.irule	|     #FF971F     |
-| keyword.log.irule	        |     #F19090     |
-| keyword.disabled.irule	|     #FF0000     |
-| variable.other.irule	    |     #AE81FF     |
-| command.httpheader.irule	|     #88FFFF     |
+| keyword.name.event.irule  |     #66D9EF     |
+| keyword.control.irule     |     #7FE22A     |
+| keyword.operator.irule    |     #FF971F     |
+| keyword.log.irule         |     #F19090     |
+| keyword.disabled.irule    |     #FF0000     |
+| variable.other.irule      |     #AE81FF     |
+| command.httpheader.irule  |     #88FFFF     |
 
 Example:
 ```xml
