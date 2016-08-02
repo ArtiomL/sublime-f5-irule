@@ -47,6 +47,31 @@ git clone https://github.com/ArtiomL/sublime-f5-irules.git
 ## Color Scheme
 Please use the **_MonokaiRule_** theme included in this package for optimal highlighting experience.
 
+Otherwise, add the following scopes to your current color scheme:
+
+| Scope                     | Proposed Color    |
+| :------------------------- |:--------:|
+| keyword.name.event.irule	|  #66D9EF |
+| keyword.control.irule	    |  #7FE22A |
+| keyword.operator.irule	|  #FF971F |
+| keyword.log.irule	        |  #F19090 |
+| keyword.disabled.irule	|  #FF0000 |
+| variable.other.irule	    |  #AE81FF |
+| command.httpheader.irule	|  #88FFFF |
+
+Example:
+```xml
+<dict>
+	<key>scope</key>
+	<string>keyword.name.event.irule</string>
+	<key>settings</key>
+	<dict>
+		<key>foreground</key>
+		<string>#66D9EF</string>
+	</dict>
+</dict>
+```
+
 <br>
 ## Filetypes and Syntax Association
 The package syntax is used for `.irule` files by default.
