@@ -60,6 +60,7 @@ Otherwise, add the following scopes to your current color scheme:
 | command.httpheader.irule  |     #88FFFF     |
 
 Example:
+
 ```xml
 <dict>
 	<key>scope</key>
