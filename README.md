@@ -59,6 +59,7 @@ Otherwise, add the following scopes to your current color scheme:
 | variable.other.irule      |     #AE81FF     |
 | command.httpheader.irule  |     #88FFFF     |
 
+
 Example:
 
 ```xml
