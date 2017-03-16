@@ -128,8 +128,7 @@ Highlighting for a specific scope will be disabled (to indicate an **_error_**) 
 #### Events
 - The **_when_** statement can't start with a whitespace
 - Only a single space should be used between the **_when_** keyword and the **_EVENT_NAME_**
-- The **_EVENT_NAME_** should only contain capital letters, underscores and numerals 2 and 7
-	(for _ACCESS2_POLICY_EXPRESSION_EVAL_ and _IN_DOSL7_ATTACK_)
+- The **_EVENT_NAME_** should only contain capital letters, underscores and numerals 2 and 7 (for _ACCESS2_POLICY_EXPRESSION_EVAL_ and _IN_DOSL7_ATTACK_)
 
 #### More
 - In development
