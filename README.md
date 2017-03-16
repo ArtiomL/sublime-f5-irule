@@ -7,12 +7,14 @@
 ![TMOS](https://img.shields.io/badge/tmos-12.1-ff0000.svg)
 [![Package Control](https://img.shields.io/packagecontrol/dt/F5%20iRules.svg)](https://packagecontrol.io/packages/F5%20iRules)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-<br>
+&nbsp;&nbsp;
+
 ## Description
 
 Sublime Text package for F5 iRules syntax highlighting and auto-completion.
 
-<br>
+&nbsp;&nbsp;
+
 ## Installation
 #### [Package Control](https://packagecontrol.io/packages/F5%20iRules)
 This is the recommended way to install the package. Package Control will install the latest release on your system and keep it up to date:
@@ -43,7 +45,8 @@ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
 git clone https://github.com/ArtiomL/sublime-f5-irules.git
 ```
 
-<br>
+&nbsp;&nbsp;
+
 ## Color Scheme
 Please use the **_MonokaiRule_** theme included in this package for optimal highlighting experience.
 
@@ -74,7 +77,8 @@ Example:
 </dict>
 ```
 
-<br>
+&nbsp;&nbsp;
+
 ## Filetypes and Syntax Association
 The package syntax is used for `.irule` files by default.
 
@@ -89,9 +93,12 @@ Or you can set the syntax manually:
 * Open the **_Command Palette_** from the main menu of Sublime Text (Tools → Command Palette or ⌘+⇧+P)
 * Start typing: `Set Syntax: iRule` or `ssir` and select the command to activate it
 
-<br>
+&nbsp;&nbsp;
+
 ## Snippets
-Code snippets are small blocks of reusable code that can be inserted into a file to avoid repetitive typing.<br>
+Code snippets are small blocks of reusable code that can be inserted into a file to avoid repetitive typing.
+&nbsp;&nbsp;
+
 Start typing one of the following:
 
 ```tcl
@@ -109,7 +116,8 @@ when
 ```
 and select the _command..._ from the context menu (Tab).
 
-<br>
+&nbsp;&nbsp;
+
 ## Pseudo-Validation
 Highlighting for a specific scope will be disabled (to indicate an **_error_**) based on the following set of rules:
 #### Spaces
